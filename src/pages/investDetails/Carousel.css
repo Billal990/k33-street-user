@@ -1,0 +1,10 @@
+.thumbs-wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+a.details.active{
+    background: #24B24B;
+    color:#FFFFFF;
+}
+

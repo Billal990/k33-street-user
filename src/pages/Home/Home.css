@@ -1,0 +1,4 @@
+.rounded-full{
+    border-radius: 0;
+    background: linear-gradient(90deg, #001F3F 0%, #005EBF 100%);
+}

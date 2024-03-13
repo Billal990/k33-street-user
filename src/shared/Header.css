@@ -1,0 +1,26 @@
+header .active{
+    border-bottom: 'solid';
+    padding-bottom: 8px;
+    border-bottom-color: #24B24B;
+    border-bottom-width: 3px;
+}
+
+header ul li a{
+    padding-bottom: 8px;
+}
+
+
+/* header ul li a:hover{
+    border-bottom-color: #24B24B;
+    border-bottom-width: 2px;
+    border-bottom: 'solid';
+    padding-bottom: 8px;
+} */
+
+.dropdown-container:hover .dropdown{
+    display: block;
+}
+
+.dropdown{
+    display: none;
+}
